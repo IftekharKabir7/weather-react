@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-react/static/css/main.0c794f41.css",
+    "main.js": "/weather-react/static/js/main.d00a9e66.js",
+    "static/media/Sajek_valley.jpg": "/weather-react/static/media/Sajek_valley.1fe718b5ba51757a9e3e.jpg",
+    "index.html": "/weather-react/index.html",
+    "main.0c794f41.css.map": "/weather-react/static/css/main.0c794f41.css.map",
+    "main.d00a9e66.js.map": "/weather-react/static/js/main.d00a9e66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c794f41.css",
+    "static/js/main.d00a9e66.js"
+  ]
+}
